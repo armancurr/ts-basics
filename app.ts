@@ -1,5 +1,2 @@
-function app(x: number): number {
-  return x + 1
-}
-
-app(1)
+var arr = [["hello", 1], ["hello"]]
+arr.length
